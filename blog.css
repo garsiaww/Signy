@@ -1,0 +1,150 @@
+.blog-header-top {
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 40px;
+  margin: 151px 0 0 103px;
+}
+
+.blog-divider {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 14px;
+  color: #061224e5;
+  margin: 0 0 0 103px;
+}
+
+.blog-section-bottom {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 12px;
+  color: black;
+  background: #e5e5e5;
+  border: none;
+  border-radius: 23px;
+  width: 113px;
+  height: 24px;
+}
+
+.blog-section-bottomm {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 12px;
+  color: black;
+  background: #e5e5e5;
+  border: none;
+  border-radius: 23px;
+  width: 59px;
+  height: 24px;
+}
+
+.blog-shell {
+  display: flex;
+  margin: 29px 0 0 0;
+  align-items: center;
+  gap: 10px;
+}
+
+.blog-highlight {
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  font-family: 18px;
+  line-height: 27px;
+  margin-top: 24px;
+  letter-spacing: 1.3px;
+  word-spacing: 3px;
+}
+
+.blog-titlebar {
+  margin: 0 0 0 103px;
+  letter-spacing: 1.3px;
+  word-spacing: 3px;
+}
+
+.blog-highlight-post {
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  font-family: 18px;
+  line-height: 27px;
+  margin-top: 24px;
+  letter-spacing: 1.3px;
+  word-spacing: 3px;
+}
+
+.blog-post-highlight {
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  font-family: 18px;
+  line-height: 27px;
+  margin-top: 24px;
+  letter-spacing: 1.3px;
+  word-spacing: 3px;
+}
+
+.blog-slider {
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  font-family: 18px;
+  line-height: 27px;
+  margin-top: 24px;
+  letter-spacing: 1.3px;
+  word-spacing: 3px;
+}
+
+.blog-images {
+  margin-top: 15px;
+}
+
+.maine-aside {
+  display: flex;
+  gap: 65px;
+}
+
+.maine-toolbar {
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.maine-alert {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+}
+
+.maine-panel {
+  display: flex;
+  justify-content: center;
+  gap: 44px;
+  margin-top: 24px;
+}
+
+.maine-table {
+  font-weight: 500;
+  font-family: IBM Plex Serif;
+  font-size: 22px;
+}
+
+.maine-banner {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 19px;
+}
+.maine-message {
+  color: #1064e5;
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 23px;
+}
+.maine-left {
+  display: flex;
+  justify-content: center;
+  gap: 305px;
+  margin-top: 24px;
+}
+
+.maine-aside {
+  display: flex;
+  justify-content: center;
+}

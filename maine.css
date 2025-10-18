@@ -1,0 +1,608 @@
+.maine-text {
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 45px;
+  color: #061224e5;
+}
+
+.maine-numberss {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 130px;
+  color: #061224e5;
+}
+
+.maine-numbers {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 130px;
+  color: #061224;
+}
+
+.maine-wrap-numbers {
+  display: flex;
+  gap: 48px;
+  align-items: center;
+  transform: translateY(-50px);
+  position: absolute;
+}
+
+.maine-boks {
+  padding: 0 0 0 105px;
+  position: absolute;
+  margin-top: 80px;
+  transform: translateY(+100px);
+}
+
+.maine-images {
+  z-index: -10;
+}
+
+.maine-registration {
+  margin-top: 70px;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 24px;
+  color: #061224e5;
+}
+
+.maine-start {
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-weight: 400;
+  color: #061224e5;
+  line-height: 25px;
+}
+
+.maine-btn {
+  font-family: IBM Plex Sans;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+  background: #1064e5;
+  border-radius: 45px;
+  width: 295px;
+  height: 56px;
+  border: none;
+  margin-top: 15px;
+}
+
+.maine-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.maine-intro {
+  font-family: IBM Plex Sans;
+  font-size: 24px;
+  font-weight: 500;
+  color: #061224e5;
+}
+
+.maine-description {
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  color: #061224e5;
+}
+
+.maine-taim {
+  display: flex;
+  margin-left: 228px;
+}
+
+.maine-maine-offer {
+  display: flex;
+  flex-direction: column;
+}
+
+.maine-img-taim {
+  margin-right: 20px;
+}
+
+.maine-description {
+  transform: translateY(-25px);
+  position: relative;
+}
+
+.maine-svg {
+  transform: translateY(-40px);
+  position: relative;
+}
+
+.maine-section {
+  display: flex;
+}
+
+.maine-taim2 {
+  display: flex;
+  margin-left: 40px;
+}
+
+.maine-taim3 {
+  display: flex;
+  margin-left: 40px;
+}
+
+.maine__wrap {
+  background-color: #d8f1f0;
+  padding: 57px 0 0 104px;
+}
+
+.maine-content {
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 40px;
+  color: #061224e5;
+}
+
+.maine-description__text {
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #061224e5;
+}
+
+.maine-bos__text {
+  margin-top: 18px;
+}
+
+.maine__btn {
+  font-family: IBM Plex Sans;
+  font-weight: 700;
+  font-size: 14px;
+  color: #061224;
+  border-radius: 46px;
+  width: 217px;
+  height: 56px;
+  background: #d8f1f0;
+  border: 1.5px solid #1064e5;
+  margin-top: 10px;
+}
+
+.maine-img__signy {
+  margin-top: 57px;
+}
+
+.maine-bussines {
+  display: flex;
+  gap: 47px;
+}
+
+.maine__btnn {
+  width: 217px;
+  height: 56px;
+  border-radius: 50px;
+  color: white;
+  background: #1064e5;
+  font-family: IBM Plex Sans;
+  font-weight: 700;
+  font-size: 14px;
+  border: none;
+  margin-top: 38px;
+}
+
+.maine-offer__list {
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 40px;
+  color: #061224e5;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.maine-subtitle {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 28px;
+  color: #061224e5;
+  padding: 32px 0 0 32px;
+}
+
+.maine-area {
+  background: #deeefc;
+  width: 256px;
+  height: 360px;
+}
+
+.maine__caption {
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-weight: 500;
+  color: #061224e5;
+  padding: 25px 0 0 32px;
+}
+.maine_block {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 24px;
+  color: #061224e5;
+  padding: 0 0 0 30px;
+}
+
+.maine___content {
+  font-family: IBM Plex Sans;
+  font-weight: 700;
+  font-size: 48px;
+  color: #061224e5;
+}
+
+.maine__bttn {
+  width: 192px;
+  height: 40px;
+  border-radius: 100px;
+  color: white;
+  background: #1064e5;
+  font-family: IBM Plex Sans;
+  font-weight: 600;
+  font-size: 12px;
+  border: none;
+  margin: 5px 0 0 28px;
+}
+
+.maine__bbtn {
+  width: 192px;
+  height: 40px;
+  border-radius: 100px;
+  color: white;
+  background: #1064e5;
+  font-family: IBM Plex Sans;
+  font-weight: 600;
+  font-size: 12px;
+  border: none;
+  margin: 78px 0 0 28px;
+}
+
+.maine__box {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.maine-plans {
+  background-color: #d8f1f0;
+  height: 310px;
+  margin-top: 98px;
+}
+
+.maine-desc1 {
+  font-family: IBM Plex Sans;
+  font-size: 73px;
+  font-weight: 500;
+  color: #061224e5;
+  padding: 30px;
+}
+
+.maine-desc2 {
+  font-family: IBM Plex Serif;
+  font-size: 40px;
+  font-weight: 500;
+  color: #061224e5;
+  transform: translateY(-75px);
+  position: relative;
+}
+
+.maine-desc3 {
+  font-family: IBM Plex Sans;
+  font-size: 18px;
+  font-weight: 400;
+  color: #061224e5;
+  line-height: 28px;
+  transform: translateY(-110px);
+  position: relative;
+}
+
+.maine__price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.maine___signy {
+  font-family: IBM Plex Serif;
+  font-size: 40px;
+  font-weight: 500;
+  color: #061224e5;
+}
+
+.maine-boss-signy {
+  display: flex;
+  justify-content: center;
+}
+
+.maine-icon {
+  display: flex;
+  justify-content: center;
+  gap: 110px;
+}
+
+.maine-link {
+  background-color: #d8f1f0;
+  height: 654px;
+}
+
+.maine-grid {
+  font-family: IBM Plex Serif;
+  font-size: 40px;
+  font-weight: 500;
+  padding: 38px 0 0 0;
+  color: #061224;
+  display: flex;
+  justify-content: center;
+  margin-top: 58px;
+}
+
+.img-list {
+  width: 310px;
+  height: 310px;
+  padding: 32px 0 0 75px;
+}
+
+.maine-info {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 14px;
+  color: #061224e5;
+  padding: 0 0 0 85px;
+}
+
+.maine-form {
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 24px;
+  color: #061224e5;
+  padding: 0 0 0 85px;
+}
+
+.maine-sectio {
+  display: flex;
+}
+
+.maine___caption-signy {
+  font-family: IBM Plex Serif;
+  font-size: 40px;
+  font-weight: 500;
+  color: #061224;
+}
+
+.maine___caption {
+  display: flex;
+  justify-content: center;
+}
+
+.maine-photo {
+  display: flex;
+  justify-content: center;
+}
+
+.maine-highlight {
+  font-family: IBM Plex Serif;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.maine-toolbar {
+  display: flex;
+  justify-content: center;
+}
+
+.maine-overlay {
+  background-color: #deeefc;
+  margin-top: 63px;
+  height: 451px;
+}
+
+.maine-slider {
+  color: #1064e5;
+  font-size: 15px;
+  font-weight: 1000;
+}
+
+.maine-divider {
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+}
+
+.faq {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.faq-item {
+  margin-bottom: 10px;
+  font-family: IBM Plex Sans;
+}
+
+.faq-question {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: normal;
+  color: #061224e5;
+}
+
+.faq-question.active {
+  font-weight: bold;
+  color: #000;
+}
+
+.faq-symbol {
+  margin-right: 8px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #1064e5;
+}
+
+.faq-answer {
+  display: none;
+  margin-left: 26px;
+  font-size: 14px;
+  color: #333;
+}
+
+.faq-answer.show {
+  display: block;
+}
+
+.maine-map {
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.maine-chart {
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.maine-titlebar {
+  display: flex;
+  justify-content: center;
+}
+
+.maine-widget {
+  display: flex;
+  justify-content: center;
+  transform: translateY(-35px);
+  position: relative;
+}
+
+.maine-section-bottom {
+  border-radius: 47px;
+  width: 399px;
+  height: 50px;
+  background: white;
+  border: 1.5px solid #1064e5;
+  margin-top: 10px;
+}
+.maine__bttnn {
+  width: 178px;
+  height: 50px;
+  border-radius: 41px;
+  color: white;
+  background: #1064e5;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  font-size: 14px;
+  border: none;
+}
+
+.maine-row-bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  transform: translateY(-20px);
+  position: relative;
+}
+
+.maine-popup {
+  font-family: IBM Plex Serif;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+header {
+  background: #fff;
+  padding: 15px 40px;
+  font-family: IBM Plex Sans;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 65px;
+  position: absolute;
+  transform: translateY(+50px);
+  gap: 70px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-image {
+  width: 130px;
+  height: 40px;
+}
+.maine-sectio {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #111;
+}
+
+nav a {
+  text-decoration: none;
+  color: #111;
+  letter-spacing: 1px;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: #007bff;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.btn {
+  padding: 7px 20px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-outline {
+  border: 1px solid #007bff;
+  background: #fff;
+  color: #007bff;
+}
+
+.btn-outline:hover {
+  background: #f0f8ff;
+}
+
+.btn-primary {
+  background: #007bff;
+  color: #fff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background: #0056cc;
+}
+
+.lang {
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.maine-bussines {
+  display: flex;
+  justify-content: center;
+}
