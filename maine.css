@@ -106,8 +106,8 @@
 }
 
 .maine-description {
-  transform: translateY(-25px);
   position: relative;
+  padding-top: 25px;
 }
 
 .maine-svg {
@@ -244,7 +244,7 @@
   font-weight: 600;
   font-size: 12px;
   border: none;
-  margin: 5px 0 0 28px;
+  margin: 45px 0 0 28px;
 }
 
 .maine__bbtn {
@@ -265,6 +265,7 @@
   gap: 20px;
   justify-content: center;
   align-items: flex-start;
+  margin-top: 30px;
 }
 
 .maine-plans {
@@ -286,7 +287,6 @@
   font-size: 40px;
   font-weight: 500;
   color: #061224e5;
-  transform: translateY(-75px);
   position: relative;
 }
 
@@ -296,7 +296,7 @@
   font-weight: 400;
   color: #061224e5;
   line-height: 28px;
-  transform: translateY(-110px);
+  padding-top: 20px;
   position: relative;
 }
 
@@ -311,6 +311,7 @@
   font-size: 40px;
   font-weight: 500;
   color: #061224e5;
+  margin-top: 20px;
 }
 
 .maine-boss-signy {
@@ -322,6 +323,7 @@
   display: flex;
   justify-content: center;
   gap: 110px;
+  margin-top: 40px;
 }
 
 .maine-link {
@@ -351,7 +353,7 @@
   font-weight: 500;
   font-size: 14px;
   color: #061224e5;
-  padding: 0 0 0 85px;
+  padding: 15px 0 0 85px;
 }
 
 .maine-form {
@@ -359,7 +361,7 @@
   font-weight: 500;
   font-size: 24px;
   color: #061224e5;
-  padding: 0 0 0 85px;
+  padding: 20px 0 0 85px;
 }
 
 .maine-sectio {
@@ -371,6 +373,7 @@
   font-size: 40px;
   font-weight: 500;
   color: #061224;
+  margin-top: 30px;
 }
 
 .maine___caption {
@@ -394,6 +397,9 @@
   justify-content: center;
 }
 
+.img {
+  margin-top: 30px;
+}
 .maine-overlay {
   background-color: #deeefc;
   margin-top: 63px;
@@ -414,6 +420,10 @@
 .faq {
   max-width: 500px;
   margin: 0 auto;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
 
 .faq-item {
@@ -473,7 +483,7 @@
 .maine-widget {
   display: flex;
   justify-content: center;
-  transform: translateY(-35px);
+  margin-top: 50px;
   position: relative;
 }
 
@@ -483,7 +493,7 @@
   height: 50px;
   background: white;
   border: 1.5px solid #1064e5;
-  margin-top: 10px;
+  margin-top: 50px;
 }
 .maine__bttnn {
   width: 178px;
@@ -495,6 +505,7 @@
   font-weight: 500;
   font-size: 14px;
   border: none;
+  margin-top: 47px;
 }
 
 .maine-row-bottom {
@@ -605,4 +616,10 @@ nav a:hover {
 .maine-bussines {
   display: flex;
   justify-content: center;
+}
+
+.header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
